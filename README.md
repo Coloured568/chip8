@@ -1,2 +1,2 @@
 # chip8
-work.
+Nowhere near done, doesn't even run chip8 ROMs yet.
